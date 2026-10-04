@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "saved_at": "2026-09-26 05:43:41",
+  "steps": [
+    {
+      "action": "click",
+      "tag": "a",
+      "text": "CANLI CASİNO",
+      "id": "",
+      "href": "https://www.meritbet868.com/tr/live-casino/home",
+      "testid": "",
+      "aria": "CANLI CASİNO",
+      "placeholder": "",
+      "name": "",
+      "inputType": "",
+      "role": "",
+      "classes": [
+        "nav-menu-item",
+        "active"
+      ],
+      "page": "https://www.meritbet868.com/tr/live-casino/home",
+      "value": ""
+    },
+    {
+      "action": "click",
+      "tag": "input",
+      "text": "",
+      "id": "",
+      "href": "",
+      "testid": "",
+      "aria": "Oyun Ara",
+      "placeholder": "Oyun Ara",
+      "name": "",
+      "inputType": "text",
+      "role": "",
+      "classes": [
+        "ds-textfield__input"
+      ],
+      "page": "https://www.meritbet868.com/tr/live-casino/home",
+      "value": ""
+    },
+    {
+      "action": "click",
+      "tag": "div",
+      "text": "pragmatic",
+      "id": "",
+      "href": "",
+      "testid": "",
+      "aria": "",
+      "placeholder": "",
+      "name": "",
+      "inputType": "",
+      "role": "",
+      "classes": [
+        "ds-chip",
+        "ds-chip-size--sm",
+        "ds-chip-color--primary"
+      ],
+      "page": "https://www.meritbet868.com/tr/live-casino/home",
+      "value": ""
+    },
+    {
+      "action": "click",
+      "tag": "button",
+      "text": "Oyna",
+      "id": "",
+      "href": "",
+      "testid": "",
+      "aria": "",
+      "placeholder": "",
+      "name": "",
+      "inputType": "button",
+      "role": "",
+      "classes": [
+        "ds-btn",
+        "ds-btn-variant--primary",
+        "ds-btn-size--xs",
+        "ds-btn-radius--full",
+        "ds-btn-appearance--filled"
+      ],
+      "page": "https://www.meritbet868.com/tr/live-casino/home?searchTerm=pragmatic",
+      "value": ""
+    }
+  ]
+}
