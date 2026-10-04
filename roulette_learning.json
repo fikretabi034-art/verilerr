@@ -1,0 +1,324 @@
+{
+  "table": "Roulette",
+  "session_results": [
+    18,
+    22,
+    9,
+    6,
+    24,
+    11,
+    31,
+    13,
+    19,
+    21,
+    17,
+    5,
+    1,
+    18,
+    24,
+    9,
+    26,
+    25,
+    27,
+    10,
+    32,
+    1,
+    3,
+    21,
+    9,
+    15,
+    9,
+    18,
+    1,
+    8,
+    35,
+    26,
+    11,
+    36,
+    10,
+    11,
+    9,
+    29,
+    25,
+    17,
+    20,
+    13,
+    36,
+    6,
+    13,
+    28,
+    35,
+    36,
+    11,
+    3
+  ],
+  "expert_loss": {
+    "RECENCY": 172.02917749172403,
+    "WHEEL": 144.40892961181,
+    "TRANSITION": 144.97481797155447
+  },
+  "expert_trials": 39,
+  "expert_hits": {
+    "RECENCY": {
+      "trials": 39,
+      "exact": 1,
+      "top5": 2,
+      "neighbor5": 7
+    },
+    "WHEEL": {
+      "trials": 39,
+      "exact": 1,
+      "top5": 5,
+      "neighbor5": 5
+    },
+    "TRANSITION": {
+      "trials": 39,
+      "exact": 1,
+      "top5": 5,
+      "neighbor5": 4
+    }
+  },
+  "validation": {
+    "trials": 39,
+    "exact": 1,
+    "top5": 4,
+    "neighbor5": 4,
+    "region": 9
+  },
+  "validation_history": [
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": true,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": true
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": true,
+      "top5": true,
+      "neighbor5": true,
+      "region": true
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": true
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": true
+    },
+    {
+      "exact": false,
+      "top5": true,
+      "neighbor5": false,
+      "region": true
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": true
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": true,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": true,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": true
+    },
+    {
+      "exact": false,
+      "top5": true,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": true
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": true,
+      "region": true
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    },
+    {
+      "exact": false,
+      "top5": false,
+      "neighbor5": false,
+      "region": false
+    }
+  ]
+}
