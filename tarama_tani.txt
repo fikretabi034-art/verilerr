@@ -1,0 +1,677 @@
+{"time": "01:17:01", "event": "full-table-pass-start", "version": "2.9.81"}
+{"time": "01:17:01", "event": "resolve-start", "version": "2.9.81", "frames": 3, "contexts": 21}
+{"time": "01:17:01", "event": "probe-result", "pending": 23, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:17:01", "event": "probe-result", "pending": 22, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:17:01", "event": "probe-result", "pending": 21, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:17:01", "event": "probe-result", "pending": 20, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:17:01", "event": "probe-result", "pending": 19, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:17:01", "event": "probe-result", "pending": 18, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:17:01", "event": "probe-result", "pending": 17, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:17:01", "event": "probe-result", "pending": 16, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:17:01", "event": "probe-result", "pending": 15, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:17:01", "event": "probe-result", "pending": 14, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:17:01", "event": "probe-result", "pending": 13, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:17:01", "event": "probe-result", "pending": 12, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:17:01", "event": "probe-result", "pending": 11, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:17:01", "event": "probe-result", "pending": 10, "count": 31, "room": true, "ready": "complete", "reason": "dom-probe", "confirmed": true}
+{"time": "01:17:01", "event": "operator-launch-route-selected"}
+{"time": "01:17:02", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:17:02", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "2"}
+{"time": "01:17:02", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:17:02", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "2"}
+{"time": "01:17:03", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:17:03", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "2"}
+{"time": "01:17:03", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "3"}
+{"time": "01:17:03", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:17:03", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "2"}
+{"time": "01:17:04", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "5"}
+{"time": "01:17:04", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "6"}
+{"time": "01:17:04", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "default"}
+{"time": "01:17:04", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "3"}
+{"time": "01:17:04", "event": "navigation", "reason": "iframe-already-open", "count": 0, "world": "5"}
+{"time": "01:17:05", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:17:05", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "6"}
+{"time": "01:17:05", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "2"}
+{"time": "01:17:05", "event": "navigation", "reason": "iframe-already-open", "count": 0, "world": "default"}
+{"time": "01:17:05", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "6"}
+{"time": "01:17:06", "event": "navigation", "reason": "iframe-already-open", "count": 0, "world": "5"}
+{"time": "01:17:06", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "3"}
+{"time": "01:17:07", "event": "navigation", "reason": "card-clicked", "count": 5, "world": "6"}
+{"time": "01:17:07", "event": "card-identity-selected", "reason": "game", "label": "TURKCE RULET", "confirmed": true}
+{"time": "01:17:07", "event": "validation-table-clicked", "label": "TURKCE RULET"}
+{"time": "01:17:08", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:17:08", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:17:08", "event": "panel-identity-check", "confirmed": false, "name_count": 10, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:17:10", "event": "game-opening-confirmed", "label": "TURKCE RULET"}
+{"time": "01:17:10", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "TURKCE RULET", "reason": "matched"}
+{"time": "01:17:10", "event": "bank-scan-committed", "count": 500, "label": "TURKCE RULET", "confirmed": true}
+{"time": "01:17:10", "event": "panel-rejected", "reason": "stale-or-finished-visit"}
+{"time": "01:17:11", "event": "validation-return-requested"}
+{"time": "01:17:11", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:17:11", "event": "navigation", "reason": "lobby-observed", "count": 10, "world": "6"}
+{"time": "01:17:11", "event": "lobby-return-settling", "world": "6"}
+{"time": "01:17:11", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:17:11", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "2"}
+{"time": "01:17:12", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "7"}
+{"time": "01:17:12", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "2"}
+{"time": "01:17:12", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "3"}
+{"time": "01:17:12", "event": "navigation", "reason": "iframe-already-open", "count": 0, "world": "default"}
+{"time": "01:17:12", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "6"}
+{"time": "01:17:13", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:17:13", "event": "navigation", "reason": "iframe-already-open", "count": 0, "world": "5"}
+{"time": "01:17:13", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "3"}
+{"time": "01:17:13", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "2"}
+{"time": "01:17:14", "event": "navigation", "reason": "lobby-observed", "count": 10, "world": "7"}
+{"time": "01:17:14", "event": "lobby-return-settling", "world": "7"}
+{"time": "01:17:14", "event": "navigation", "reason": "lobby-observed", "count": 10, "world": "7"}
+{"time": "01:17:14", "event": "table-roundtrip-complete", "label": "TURKCE RULET", "count": 1, "confirmed": true}
+{"time": "01:17:15", "event": "navigation", "reason": "card-clicked", "count": 10, "world": "7"}
+{"time": "01:17:15", "event": "card-identity-selected", "reason": "game", "label": "TURKCE MEGA RULET", "confirmed": true}
+{"time": "01:17:15", "event": "validation-table-clicked", "label": "TURKCE MEGA RULET"}
+{"time": "01:17:16", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:17:16", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:17:16", "event": "panel-identity-check", "confirmed": false, "name_count": 10, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:17:17", "event": "game-opening-confirmed", "label": "TURKCE MEGA RULET"}
+{"time": "01:17:18", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "TURKCE MEGA RULET", "reason": "matched"}
+{"time": "01:17:18", "event": "bank-scan-committed", "count": 500, "label": "TURKCE MEGA RULET", "confirmed": true}
+{"time": "01:17:18", "event": "validation-return-requested"}
+{"time": "01:17:18", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:17:19", "event": "navigation", "reason": "lobby-observed", "count": 10, "world": "7"}
+{"time": "01:17:19", "event": "lobby-return-settling", "world": "7"}
+{"time": "01:17:19", "event": "navigation", "reason": "lobby-observed", "count": 10, "world": "7"}
+{"time": "01:17:20", "event": "navigation", "reason": "lobby-observed", "count": 10, "world": "7"}
+{"time": "01:17:20", "event": "table-roundtrip-complete", "label": "TURKCE MEGA RULET", "count": 2, "confirmed": true}
+{"time": "01:17:21", "event": "navigation", "reason": "card-clicked", "count": 10, "world": "7"}
+{"time": "01:17:21", "event": "card-identity-selected", "reason": "game", "label": "BREZILYA PORTEKIZCESI RULET", "confirmed": true}
+{"time": "01:17:21", "event": "validation-table-clicked", "label": "BREZILYA PORTEKIZCESI RULET"}
+{"time": "01:17:21", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:17:21", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:17:21", "event": "panel-identity-check", "confirmed": false, "name_count": 10, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:17:22", "event": "game-opening-confirmed", "label": "BREZILYA PORTEKIZCESI RULET"}
+{"time": "01:17:23", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "BREZILYA PORTEKIZCESI RULET", "reason": "matched"}
+{"time": "01:17:23", "event": "bank-scan-committed", "count": 500, "label": "BREZILYA PORTEKIZCESI RULET", "confirmed": true}
+{"time": "01:17:23", "event": "validation-return-requested"}
+{"time": "01:17:23", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:17:24", "event": "navigation", "reason": "lobby-observed", "count": 10, "world": "7"}
+{"time": "01:17:24", "event": "lobby-return-settling", "world": "7"}
+{"time": "01:17:24", "event": "navigation", "reason": "lobby-observed", "count": 10, "world": "7"}
+{"time": "01:17:24", "event": "table-roundtrip-complete", "label": "BREZILYA PORTEKIZCESI RULET", "count": 3, "confirmed": true}
+{"time": "01:17:25", "event": "navigation", "reason": "card-click-failed", "count": 10, "world": "7"}
+{"time": "01:18:38", "event": "full-table-pass-start", "version": "2.9.81"}
+{"time": "01:18:38", "event": "resolve-start", "version": "2.9.81", "frames": 3, "contexts": 21}
+{"time": "01:18:38", "event": "probe-result", "pending": 23, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:18:38", "event": "probe-result", "pending": 22, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:18:38", "event": "probe-result", "pending": 21, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:18:38", "event": "probe-result", "pending": 20, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:18:38", "event": "probe-result", "pending": 19, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:18:38", "event": "probe-result", "pending": 18, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:18:38", "event": "probe-result", "pending": 17, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:18:38", "event": "probe-result", "pending": 16, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:18:38", "event": "probe-result", "pending": 15, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:18:38", "event": "probe-result", "pending": 14, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:18:38", "event": "probe-result", "pending": 13, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:18:38", "event": "probe-result", "pending": 12, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:18:38", "event": "probe-result", "pending": 11, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:18:38", "event": "probe-result", "pending": 10, "count": 31, "room": true, "ready": "complete", "reason": "dom-probe", "confirmed": true}
+{"time": "01:18:38", "event": "operator-launch-route-selected"}
+{"time": "01:18:38", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:18:38", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "1"}
+{"time": "01:18:39", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:18:39", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "1"}
+{"time": "01:18:39", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:18:39", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "1"}
+{"time": "01:18:40", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:18:40", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "2"}
+{"time": "01:18:40", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "3"}
+{"time": "01:18:40", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "4"}
+{"time": "01:18:40", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "1"}
+{"time": "01:18:41", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "default"}
+{"time": "01:18:41", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "5"}
+{"time": "01:18:41", "event": "navigation", "reason": "iframe-already-open", "count": 0, "world": "7"}
+{"time": "01:18:41", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:18:41", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "8"}
+{"time": "01:18:42", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "2"}
+{"time": "01:18:42", "event": "navigation", "reason": "iframe-already-open", "count": 0, "world": "default"}
+{"time": "01:18:42", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "1"}
+{"time": "01:18:42", "event": "navigation", "reason": "iframe-already-open", "count": 0, "world": "7"}
+{"time": "01:18:42", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "5"}
+{"time": "01:18:43", "event": "navigation", "reason": "card-clicked", "count": 11, "world": "8"}
+{"time": "01:18:43", "event": "card-identity-selected", "reason": "game", "label": "TURKCE RULET", "confirmed": true}
+{"time": "01:18:43", "event": "validation-table-clicked", "label": "TURKCE RULET"}
+{"time": "01:18:44", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:18:44", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:18:44", "event": "panel-identity-check", "confirmed": false, "name_count": 11, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:18:46", "event": "game-opening-confirmed", "label": "TURKCE RULET"}
+{"time": "01:18:46", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "TURKCE RULET", "reason": "matched"}
+{"time": "01:18:47", "event": "bank-scan-committed", "count": 500, "label": "TURKCE RULET", "confirmed": true}
+{"time": "01:18:47", "event": "panel-rejected", "reason": "stale-or-finished-visit"}
+{"time": "01:18:47", "event": "validation-return-requested"}
+{"time": "01:18:47", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:18:48", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:18:48", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "1"}
+{"time": "01:18:48", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "9"}
+{"time": "01:18:48", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "2"}
+{"time": "01:18:48", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "2"}
+{"time": "01:18:49", "event": "navigation", "reason": "iframe-already-open", "count": 0, "world": "default"}
+{"time": "01:18:49", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "1"}
+{"time": "01:18:49", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:18:49", "event": "navigation", "reason": "iframe-already-open", "count": 0, "world": "7"}
+{"time": "01:18:49", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "5"}
+{"time": "01:18:50", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "1"}
+{"time": "01:18:50", "event": "navigation", "reason": "lobby-observed", "count": 10, "world": "9"}
+{"time": "01:18:50", "event": "lobby-return-settling", "world": "9"}
+{"time": "01:18:51", "event": "navigation", "reason": "lobby-observed", "count": 10, "world": "9"}
+{"time": "01:18:51", "event": "table-roundtrip-complete", "label": "TURKCE RULET", "count": 1, "confirmed": true}
+{"time": "01:18:52", "event": "navigation", "reason": "card-clicked", "count": 10, "world": "9"}
+{"time": "01:18:52", "event": "card-identity-selected", "reason": "game", "label": "TURKCE MEGA RULET", "confirmed": true}
+{"time": "01:18:52", "event": "validation-table-clicked", "label": "TURKCE MEGA RULET"}
+{"time": "01:18:53", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:18:53", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:18:53", "event": "panel-identity-check", "confirmed": false, "name_count": 10, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:18:54", "event": "game-opening-confirmed", "label": "TURKCE MEGA RULET"}
+{"time": "01:18:54", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "TURKCE MEGA RULET", "reason": "matched"}
+{"time": "01:18:54", "event": "bank-scan-committed", "count": 500, "label": "TURKCE MEGA RULET", "confirmed": true}
+{"time": "01:18:55", "event": "validation-return-requested"}
+{"time": "01:18:55", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:18:55", "event": "navigation", "reason": "lobby-observed", "count": 10, "world": "9"}
+{"time": "01:18:55", "event": "lobby-return-settling", "world": "9"}
+{"time": "01:18:56", "event": "navigation", "reason": "lobby-observed", "count": 10, "world": "9"}
+{"time": "01:18:56", "event": "table-roundtrip-complete", "label": "TURKCE MEGA RULET", "count": 2, "confirmed": true}
+{"time": "01:18:57", "event": "navigation", "reason": "card-clicked", "count": 10, "world": "9"}
+{"time": "01:18:57", "event": "card-identity-selected", "reason": "game", "label": "BREZILYA PORTEKIZCESI RULET", "confirmed": true}
+{"time": "01:18:57", "event": "validation-table-clicked", "label": "BREZILYA PORTEKIZCESI RULET"}
+{"time": "01:18:58", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:18:58", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:18:58", "event": "panel-identity-check", "confirmed": false, "name_count": 10, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:18:59", "event": "game-opening-confirmed", "label": "BREZILYA PORTEKIZCESI RULET"}
+{"time": "01:18:59", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "BREZILYA PORTEKIZCESI RULET", "reason": "matched"}
+{"time": "01:18:59", "event": "bank-scan-committed", "count": 500, "label": "BREZILYA PORTEKIZCESI RULET", "confirmed": true}
+{"time": "01:18:59", "event": "validation-return-requested"}
+{"time": "01:19:00", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:19:00", "event": "navigation", "reason": "lobby-observed", "count": 10, "world": "9"}
+{"time": "01:19:00", "event": "lobby-return-settling", "world": "9"}
+{"time": "01:19:01", "event": "navigation", "reason": "lobby-observed", "count": 10, "world": "9"}
+{"time": "01:19:01", "event": "table-roundtrip-complete", "label": "BREZILYA PORTEKIZCESI RULET", "count": 3, "confirmed": true}
+{"time": "01:19:01", "event": "navigation", "reason": "card-click-failed", "count": 10, "world": "9"}
+{"time": "01:20:42", "event": "full-table-pass-start", "version": "2.9.81"}
+{"time": "01:20:42", "event": "resolve-start", "version": "2.9.81", "frames": 3, "contexts": 24}
+{"time": "01:20:42", "event": "probe-result", "pending": 26, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:20:42", "event": "probe-result", "pending": 25, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:20:42", "event": "probe-result", "pending": 24, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:20:42", "event": "probe-result", "pending": 23, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:20:42", "event": "probe-result", "pending": 22, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:20:42", "event": "probe-result", "pending": 21, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:20:42", "event": "probe-result", "pending": 20, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:20:42", "event": "probe-result", "pending": 19, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:20:42", "event": "probe-result", "pending": 18, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:20:42", "event": "probe-result", "pending": 17, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:20:42", "event": "probe-result", "pending": 16, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:20:42", "event": "probe-result", "pending": 15, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:20:42", "event": "probe-result", "pending": 14, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:20:42", "event": "probe-result", "pending": 13, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:20:42", "event": "probe-result", "pending": 12, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:20:42", "event": "probe-result", "pending": 11, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:20:42", "event": "probe-result", "pending": 10, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:20:42", "event": "probe-result", "pending": 9, "count": 0, "room": false, "ready": "complete", "reason": "dom-probe", "confirmed": false}
+{"time": "01:20:42", "event": "probe-result", "pending": 8, "count": 0, "room": false, "ready": "complete", "reason": "operator-wrapper", "confirmed": false}
+{"time": "01:20:42", "event": "probe-result", "pending": 7, "count": 31, "room": true, "ready": "complete", "reason": "dom-probe", "confirmed": true}
+{"time": "01:20:42", "event": "operator-launch-route-selected"}
+{"time": "01:20:42", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:20:43", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "6"}
+{"time": "01:20:43", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:20:43", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "6"}
+{"time": "01:20:43", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:20:44", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "8"}
+{"time": "01:20:44", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "6"}
+{"time": "01:20:44", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "9"}
+{"time": "01:20:44", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "10"}
+{"time": "01:20:44", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "default"}
+{"time": "01:20:45", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:20:45", "event": "navigation", "reason": "iframe-already-open", "count": 0, "world": "11"}
+{"time": "01:20:45", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "8"}
+{"time": "01:20:45", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "12"}
+{"time": "01:20:45", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "6"}
+{"time": "01:20:46", "event": "navigation", "reason": "iframe-already-open", "count": 0, "world": "default"}
+{"time": "01:20:46", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "10"}
+{"time": "01:20:46", "event": "navigation", "reason": "iframe-already-open", "count": 0, "world": "11"}
+{"time": "01:20:46", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:20:47", "event": "navigation", "reason": "roulette-selecting", "count": 0, "world": "12"}
+{"time": "01:20:47", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "8"}
+{"time": "01:20:47", "event": "navigation", "reason": "iframe-already-open", "count": 0, "world": "default"}
+{"time": "01:20:47", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "6"}
+{"time": "01:20:48", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "13"}
+{"time": "01:20:48", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "10"}
+{"time": "01:20:48", "event": "navigation", "reason": "iframe-already-open", "count": 0, "world": "11"}
+{"time": "01:20:48", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:20:49", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "12"}
+{"time": "01:20:49", "event": "card-identity-selected", "reason": "game", "label": "TURKCE RULET", "confirmed": true}
+{"time": "01:20:49", "event": "validation-table-clicked", "label": "TURKCE RULET"}
+{"time": "01:20:50", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:20:50", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:20:50", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:20:51", "event": "game-opening-confirmed", "label": "TURKCE RULET"}
+{"time": "01:20:51", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "TURKCE RULET", "reason": "matched"}
+{"time": "01:20:52", "event": "bank-scan-committed", "count": 500, "label": "TURKCE RULET", "confirmed": true}
+{"time": "01:20:52", "event": "validation-return-requested"}
+{"time": "01:20:52", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:20:53", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "12"}
+{"time": "01:20:53", "event": "lobby-return-settling", "world": "12"}
+{"time": "01:20:53", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "8"}
+{"time": "01:20:53", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "1"}
+{"time": "01:20:54", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "14"}
+{"time": "01:20:54", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "6"}
+{"time": "01:20:54", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "2"}
+{"time": "01:20:54", "event": "navigation", "reason": "iframe-already-open", "count": 0, "world": "default"}
+{"time": "01:20:54", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "10"}
+{"time": "01:20:55", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:20:55", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "15"}
+{"time": "01:20:55", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "default"}
+{"time": "01:20:55", "event": "navigation", "reason": "operator-wrapper-blocked", "count": 0, "world": "1"}
+{"time": "01:20:56", "event": "navigation", "reason": "iframe-already-open", "count": 0, "world": "11"}
+{"time": "01:20:56", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "8"}
+{"time": "01:20:56", "event": "navigation", "reason": "no-cards-in-frame", "count": 0, "world": "2"}
+{"time": "01:20:58", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:20:58", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:20:59", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:20:59", "event": "table-roundtrip-complete", "label": "TURKCE RULET", "count": 1, "confirmed": true}
+{"time": "01:21:01", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:21:01", "event": "card-identity-selected", "reason": "game", "label": "TURKCE MEGA RULET", "confirmed": true}
+{"time": "01:21:01", "event": "validation-table-clicked", "label": "TURKCE MEGA RULET"}
+{"time": "01:21:01", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:21:01", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:02", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:03", "event": "game-opening-confirmed", "label": "TURKCE MEGA RULET"}
+{"time": "01:21:03", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "TURKCE MEGA RULET", "reason": "matched"}
+{"time": "01:21:03", "event": "bank-scan-committed", "count": 500, "label": "TURKCE MEGA RULET", "confirmed": true}
+{"time": "01:21:03", "event": "panel-rejected", "reason": "stale-or-finished-visit"}
+{"time": "01:21:03", "event": "validation-return-requested"}
+{"time": "01:21:03", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:21:04", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:04", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:21:05", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:05", "event": "table-roundtrip-complete", "label": "TURKCE MEGA RULET", "count": 2, "confirmed": true}
+{"time": "01:21:06", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:21:06", "event": "card-identity-selected", "reason": "game", "label": "BREZILYA PORTEKIZCESI RULET", "confirmed": true}
+{"time": "01:21:06", "event": "validation-table-clicked", "label": "BREZILYA PORTEKIZCESI RULET"}
+{"time": "01:21:07", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:07", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:21:07", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:08", "event": "game-opening-confirmed", "label": "BREZILYA PORTEKIZCESI RULET"}
+{"time": "01:21:08", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "BREZILYA PORTEKIZCESI RULET", "reason": "matched"}
+{"time": "01:21:08", "event": "bank-scan-committed", "count": 500, "label": "BREZILYA PORTEKIZCESI RULET", "confirmed": true}
+{"time": "01:21:08", "event": "panel-rejected", "reason": "stale-or-finished-visit"}
+{"time": "01:21:09", "event": "validation-return-requested"}
+{"time": "01:21:09", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:21:10", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:10", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:21:11", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:11", "event": "table-roundtrip-complete", "label": "BREZILYA PORTEKIZCESI RULET", "count": 3, "confirmed": true}
+{"time": "01:21:12", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:21:12", "event": "card-identity-selected", "reason": "game", "label": "RULET 1", "confirmed": true}
+{"time": "01:21:12", "event": "validation-table-clicked", "label": "RULET 1"}
+{"time": "01:21:13", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:21:13", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:13", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:14", "event": "game-opening-confirmed", "label": "RULET 1"}
+{"time": "01:21:14", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "RULET 1", "reason": "matched"}
+{"time": "01:21:14", "event": "bank-scan-committed", "count": 500, "label": "RULET 1", "confirmed": true}
+{"time": "01:21:14", "event": "panel-rejected", "reason": "stale-or-finished-visit"}
+{"time": "01:21:15", "event": "validation-return-requested"}
+{"time": "01:21:15", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:21:16", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:16", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:21:16", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:16", "event": "table-roundtrip-complete", "label": "RULET 1", "count": 4, "confirmed": true}
+{"time": "01:21:18", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:21:18", "event": "card-identity-selected", "reason": "game", "label": "IMMERSIVE RULET DELUXE", "confirmed": true}
+{"time": "01:21:18", "event": "validation-table-clicked", "label": "IMMERSIVE RULET DELUXE"}
+{"time": "01:21:18", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:21:18", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:18", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:19", "event": "game-opening-confirmed", "label": "IMMERSIVE RULET DELUXE"}
+{"time": "01:21:20", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "IMMERSIVE RULET DELUXE", "reason": "matched"}
+{"time": "01:21:20", "event": "bank-scan-committed", "count": 500, "label": "IMMERSIVE RULET DELUXE", "confirmed": true}
+{"time": "01:21:20", "event": "validation-return-requested"}
+{"time": "01:21:20", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:21:21", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:21", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:21:22", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:22", "event": "table-roundtrip-complete", "label": "IMMERSIVE RULET DELUXE", "count": 5, "confirmed": true}
+{"time": "01:21:23", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:24", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:21:24", "event": "card-identity-selected", "reason": "game", "label": "RULET 2 EXTRA TIME", "confirmed": true}
+{"time": "01:21:24", "event": "validation-table-clicked", "label": "RULET 2 EXTRA TIME"}
+{"time": "01:21:25", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:21:25", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:25", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:26", "event": "game-opening-confirmed", "label": "RULET 2 EXTRA TIME"}
+{"time": "01:21:26", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "RULET 2 EXTRA TIME", "reason": "matched"}
+{"time": "01:21:26", "event": "bank-scan-committed", "count": 500, "label": "RULET 2 EXTRA TIME", "confirmed": true}
+{"time": "01:21:26", "event": "validation-return-requested"}
+{"time": "01:21:27", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:21:27", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:27", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:21:28", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:28", "event": "table-roundtrip-complete", "label": "RULET 2 EXTRA TIME", "count": 6, "confirmed": true}
+{"time": "01:21:30", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:21:30", "event": "card-identity-selected", "reason": "game", "label": "RULET MACAO", "confirmed": true}
+{"time": "01:21:30", "event": "validation-table-clicked", "label": "RULET MACAO"}
+{"time": "01:21:30", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:21:30", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:30", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:31", "event": "game-opening-confirmed", "label": "RULET MACAO"}
+{"time": "01:21:32", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "RULET MACAO", "reason": "matched"}
+{"time": "01:21:32", "event": "bank-scan-committed", "count": 500, "label": "RULET MACAO", "confirmed": true}
+{"time": "01:21:32", "event": "panel-rejected", "reason": "stale-or-finished-visit"}
+{"time": "01:21:32", "event": "validation-return-requested"}
+{"time": "01:21:32", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:21:33", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:33", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:21:34", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:34", "event": "table-roundtrip-complete", "label": "RULET MACAO", "count": 7, "confirmed": true}
+{"time": "01:21:35", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:21:35", "event": "card-identity-selected", "reason": "game", "label": "HIZLI RULET 2", "confirmed": true}
+{"time": "01:21:35", "event": "validation-table-clicked", "label": "HIZLI RULET 2"}
+{"time": "01:21:36", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:21:36", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:36", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:37", "event": "game-opening-confirmed", "label": "HIZLI RULET 2"}
+{"time": "01:21:37", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "HIZLI RULET 2", "reason": "matched"}
+{"time": "01:21:37", "event": "bank-scan-committed", "count": 500, "label": "HIZLI RULET 2", "confirmed": true}
+{"time": "01:21:37", "event": "validation-return-requested"}
+{"time": "01:21:37", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:21:38", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:38", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:21:39", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:39", "event": "table-roundtrip-complete", "label": "HIZLI RULET 2", "count": 8, "confirmed": true}
+{"time": "01:21:40", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:21:40", "event": "card-identity-selected", "reason": "game", "label": "RULET 3", "confirmed": true}
+{"time": "01:21:40", "event": "validation-table-clicked", "label": "RULET 3"}
+{"time": "01:21:41", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:41", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:21:41", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:41", "event": "game-opening-confirmed", "label": "RULET 3"}
+{"time": "01:21:42", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "RULET 3", "reason": "matched"}
+{"time": "01:21:42", "event": "bank-scan-committed", "count": 500, "label": "RULET 3", "confirmed": true}
+{"time": "01:21:42", "event": "panel-rejected", "reason": "stale-or-finished-visit"}
+{"time": "01:21:42", "event": "validation-return-requested"}
+{"time": "01:21:43", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:21:44", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:44", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:21:44", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:44", "event": "table-roundtrip-complete", "label": "RULET 3", "count": 9, "confirmed": true}
+{"time": "01:21:46", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:21:46", "event": "card-identity-selected", "reason": "game", "label": "FRANSIZ RULETI GERI ODEMELI", "confirmed": true}
+{"time": "01:21:46", "event": "validation-table-clicked", "label": "FRANSIZ RULETI GERI ODEMELI"}
+{"time": "01:21:46", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:46", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:21:46", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:47", "event": "game-opening-confirmed", "label": "FRANSIZ RULETI GERI ODEMELI"}
+{"time": "01:21:48", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "FRANSIZ RULETI GERI ODEMELI", "reason": "matched"}
+{"time": "01:21:48", "event": "bank-scan-committed", "count": 500, "label": "FRANSIZ RULETI GERI ODEMELI", "confirmed": true}
+{"time": "01:21:48", "event": "validation-return-requested"}
+{"time": "01:21:48", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:21:49", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:49", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:21:50", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:50", "event": "table-roundtrip-complete", "label": "FRANSIZ RULETI GERI ODEMELI", "count": 10, "confirmed": true}
+{"time": "01:21:51", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:21:51", "event": "card-identity-selected", "reason": "game", "label": "VIP RULET", "confirmed": true}
+{"time": "01:21:51", "event": "validation-table-clicked", "label": "VIP RULET"}
+{"time": "01:21:52", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:52", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:21:52", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:52", "event": "game-opening-confirmed", "label": "VIP RULET"}
+{"time": "01:21:53", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "VIP RULET", "reason": "matched"}
+{"time": "01:21:53", "event": "bank-scan-committed", "count": 500, "label": "VIP RULET", "confirmed": true}
+{"time": "01:21:53", "event": "panel-rejected", "reason": "stale-or-finished-visit"}
+{"time": "01:21:53", "event": "validation-return-requested"}
+{"time": "01:21:53", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:21:54", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:54", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:21:55", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:21:55", "event": "table-roundtrip-complete", "label": "VIP RULET", "count": 11, "confirmed": true}
+{"time": "01:21:56", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:21:56", "event": "card-identity-selected", "reason": "game", "label": "HIZLI RULET 1", "confirmed": true}
+{"time": "01:21:56", "event": "validation-table-clicked", "label": "HIZLI RULET 1"}
+{"time": "01:21:57", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:21:57", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:57", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:21:58", "event": "game-opening-confirmed", "label": "HIZLI RULET 1"}
+{"time": "01:21:58", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "HIZLI RULET 1", "reason": "matched"}
+{"time": "01:21:58", "event": "bank-scan-committed", "count": 500, "label": "HIZLI RULET 1", "confirmed": true}
+{"time": "01:21:59", "event": "validation-return-requested"}
+{"time": "01:21:59", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:22:00", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:00", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:22:00", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:00", "event": "table-roundtrip-complete", "label": "HIZLI RULET 1", "count": 12, "confirmed": true}
+{"time": "01:22:02", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:22:02", "event": "card-identity-selected", "reason": "game", "label": "BREZILYA PORTEKIZCESI MEGA RULET", "confirmed": true}
+{"time": "01:22:02", "event": "validation-table-clicked", "label": "BREZILYA PORTEKIZCESI MEGA RULET"}
+{"time": "01:22:03", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:22:03", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:03", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:04", "event": "game-opening-confirmed", "label": "BREZILYA PORTEKIZCESI MEGA RULET"}
+{"time": "01:22:04", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "BREZILYA PORTEKIZCESI MEGA RULET", "reason": "matched"}
+{"time": "01:22:04", "event": "bank-scan-committed", "count": 500, "label": "BREZILYA PORTEKIZCESI MEGA RULET", "confirmed": true}
+{"time": "01:22:04", "event": "validation-return-requested"}
+{"time": "01:22:05", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:22:05", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:05", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:22:06", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:06", "event": "table-roundtrip-complete", "label": "BREZILYA PORTEKIZCESI MEGA RULET", "count": 13, "confirmed": true}
+{"time": "01:22:07", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:22:07", "event": "card-identity-selected", "reason": "game", "label": "HIZLI RULET LATINA", "confirmed": true}
+{"time": "01:22:07", "event": "validation-table-clicked", "label": "HIZLI RULET LATINA"}
+{"time": "01:22:08", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:08", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:22:08", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:09", "event": "game-opening-confirmed", "label": "HIZLI RULET LATINA"}
+{"time": "01:22:10", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "HIZLI RULET LATINA", "reason": "matched"}
+{"time": "01:22:10", "event": "bank-scan-committed", "count": 500, "label": "HIZLI RULET LATINA", "confirmed": true}
+{"time": "01:22:10", "event": "validation-return-requested"}
+{"time": "01:22:10", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:22:11", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:11", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:22:12", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:12", "event": "table-roundtrip-complete", "label": "HIZLI RULET LATINA", "count": 14, "confirmed": true}
+{"time": "01:22:13", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:22:13", "event": "card-identity-selected", "reason": "game", "label": "KRISTAL RULET", "confirmed": true}
+{"time": "01:22:13", "event": "validation-table-clicked", "label": "KRISTAL RULET"}
+{"time": "01:22:14", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:22:14", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:14", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:15", "event": "game-opening-confirmed", "label": "KRISTAL RULET"}
+{"time": "01:22:15", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "KRISTAL RULET", "reason": "matched"}
+{"time": "01:22:15", "event": "bank-scan-committed", "count": 500, "label": "KRISTAL RULET", "confirmed": true}
+{"time": "01:22:16", "event": "validation-return-requested"}
+{"time": "01:22:16", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:22:17", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:17", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:22:17", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:17", "event": "table-roundtrip-complete", "label": "KRISTAL RULET", "count": 15, "confirmed": true}
+{"time": "01:22:19", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:22:19", "event": "card-identity-selected", "reason": "game", "label": "FORTUNE RULET", "confirmed": true}
+{"time": "01:22:19", "event": "validation-table-clicked", "label": "FORTUNE RULET"}
+{"time": "01:22:20", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:20", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:22:20", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:21", "event": "game-opening-confirmed", "label": "FORTUNE RULET"}
+{"time": "01:22:21", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "FORTUNE RULET", "reason": "matched"}
+{"time": "01:22:21", "event": "bank-scan-committed", "count": 500, "label": "FORTUNE RULET", "confirmed": true}
+{"time": "01:22:21", "event": "validation-return-requested"}
+{"time": "01:22:21", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:22:22", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:22", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:22:23", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:23", "event": "table-roundtrip-complete", "label": "FORTUNE RULET", "count": 16, "confirmed": true}
+{"time": "01:22:25", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:22:25", "event": "card-identity-selected", "reason": "game", "label": "LUCKY 6 RULET", "confirmed": true}
+{"time": "01:22:25", "event": "validation-table-clicked", "label": "LUCKY 6 RULET"}
+{"time": "01:22:25", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:25", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:22:26", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:27", "event": "game-opening-confirmed", "label": "LUCKY 6 RULET"}
+{"time": "01:22:27", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "LUCKY 6 RULET", "reason": "matched"}
+{"time": "01:22:27", "event": "bank-scan-committed", "count": 500, "label": "LUCKY 6 RULET", "confirmed": true}
+{"time": "01:22:27", "event": "validation-return-requested"}
+{"time": "01:22:27", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:22:28", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:28", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:22:29", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:29", "event": "table-roundtrip-complete", "label": "LUCKY 6 RULET", "count": 17, "confirmed": true}
+{"time": "01:22:30", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:22:30", "event": "card-identity-selected", "reason": "game", "label": "MEGA RULET", "confirmed": true}
+{"time": "01:22:30", "event": "validation-table-clicked", "label": "MEGA RULET"}
+{"time": "01:22:31", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:22:31", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:31", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:32", "event": "game-opening-confirmed", "label": "MEGA RULET"}
+{"time": "01:22:32", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "MEGA RULET", "reason": "matched"}
+{"time": "01:22:32", "event": "bank-scan-committed", "count": 500, "label": "MEGA RULET", "confirmed": true}
+{"time": "01:22:33", "event": "validation-return-requested"}
+{"time": "01:22:33", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:22:34", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:34", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:22:35", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:35", "event": "table-roundtrip-complete", "label": "MEGA RULET", "count": 18, "confirmed": true}
+{"time": "01:22:36", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:22:36", "event": "card-identity-selected", "reason": "game", "label": "MEGA RULET 3000", "confirmed": true}
+{"time": "01:22:36", "event": "validation-table-clicked", "label": "MEGA RULET 3000"}
+{"time": "01:22:37", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:22:37", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:37", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:38", "event": "game-opening-confirmed", "label": "MEGA RULET 3000"}
+{"time": "01:22:38", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "MEGA RULET 3000", "reason": "matched"}
+{"time": "01:22:38", "event": "bank-scan-committed", "count": 500, "label": "MEGA RULET 3000", "confirmed": true}
+{"time": "01:22:38", "event": "panel-rejected", "reason": "stale-or-finished-visit"}
+{"time": "01:22:39", "event": "validation-return-requested"}
+{"time": "01:22:39", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:22:39", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:39", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:22:40", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:40", "event": "table-roundtrip-complete", "label": "MEGA RULET 3000", "count": 19, "confirmed": true}
+{"time": "01:22:41", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:22:41", "event": "card-identity-selected", "reason": "game", "label": "ALMANCA RULET", "confirmed": true}
+{"time": "01:22:41", "event": "validation-table-clicked", "label": "ALMANCA RULET"}
+{"time": "01:22:42", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:22:42", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:42", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:43", "event": "game-opening-confirmed", "label": "ALMANCA RULET"}
+{"time": "01:22:43", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "ALMANCA RULET", "reason": "matched"}
+{"time": "01:22:44", "event": "bank-scan-committed", "count": 500, "label": "ALMANCA RULET", "confirmed": true}
+{"time": "01:22:44", "event": "validation-return-requested"}
+{"time": "01:22:44", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:22:45", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:45", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:22:46", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:46", "event": "table-roundtrip-complete", "label": "ALMANCA RULET", "count": 20, "confirmed": true}
+{"time": "01:22:47", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:22:47", "event": "card-identity-selected", "reason": "game", "label": "OTOMATIK RULET", "confirmed": true}
+{"time": "01:22:47", "event": "validation-table-clicked", "label": "OTOMATIK RULET"}
+{"time": "01:22:47", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:22:47", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:48", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:48", "event": "game-opening-confirmed", "label": "OTOMATIK RULET"}
+{"time": "01:22:49", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "OTOMATIK RULET", "reason": "matched"}
+{"time": "01:22:49", "event": "bank-scan-committed", "count": 500, "label": "OTOMATIK RULET", "confirmed": true}
+{"time": "01:22:49", "event": "validation-return-requested"}
+{"time": "01:22:49", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:22:50", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:50", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:22:51", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:51", "event": "table-roundtrip-complete", "label": "OTOMATIK RULET", "count": 21, "confirmed": true}
+{"time": "01:22:53", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:22:53", "event": "card-identity-selected", "reason": "game", "label": "RUSCA RULET", "confirmed": true}
+{"time": "01:22:53", "event": "validation-table-clicked", "label": "RUSCA RULET"}
+{"time": "01:22:53", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:22:53", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:53", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:54", "event": "game-opening-confirmed", "label": "RUSCA RULET"}
+{"time": "01:22:55", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "RUSCA RULET", "reason": "matched"}
+{"time": "01:22:55", "event": "bank-scan-committed", "count": 500, "label": "RUSCA RULET", "confirmed": true}
+{"time": "01:22:55", "event": "validation-return-requested"}
+{"time": "01:22:55", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:22:56", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:56", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:22:57", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:22:57", "event": "table-roundtrip-complete", "label": "RUSCA RULET", "count": 22, "confirmed": true}
+{"time": "01:22:58", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:22:58", "event": "card-identity-selected", "reason": "game", "label": "ROMENCE RULET", "confirmed": true}
+{"time": "01:22:58", "event": "validation-table-clicked", "label": "ROMENCE RULET"}
+{"time": "01:22:59", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:22:59", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:22:59", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:23:00", "event": "game-opening-confirmed", "label": "ROMENCE RULET"}
+{"time": "01:23:00", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "ROMENCE RULET", "reason": "matched"}
+{"time": "01:23:00", "event": "bank-scan-committed", "count": 500, "label": "ROMENCE RULET", "confirmed": true}
+{"time": "01:23:01", "event": "validation-return-requested"}
+{"time": "01:23:01", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:23:01", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:23:01", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:23:02", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:23:02", "event": "table-roundtrip-complete", "label": "ROMENCE RULET", "count": 23, "confirmed": true}
+{"time": "01:23:04", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:23:04", "event": "card-identity-selected", "reason": "game", "label": "RULET LATINA", "confirmed": true}
+{"time": "01:23:04", "event": "validation-table-clicked", "label": "RULET LATINA"}
+{"time": "01:23:04", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:23:04", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:23:05", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:23:05", "event": "game-opening-confirmed", "label": "RULET LATINA"}
+{"time": "01:23:05", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "RULET LATINA", "reason": "matched"}
+{"time": "01:23:05", "event": "bank-scan-committed", "count": 500, "label": "RULET LATINA", "confirmed": true}
+{"time": "01:23:05", "event": "panel-rejected", "reason": "stale-or-finished-visit"}
+{"time": "01:23:06", "event": "validation-return-requested"}
+{"time": "01:23:06", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:23:07", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:23:07", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:23:08", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:23:08", "event": "table-roundtrip-complete", "label": "RULET LATINA", "count": 24, "confirmed": true}
+{"time": "01:23:09", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:23:09", "event": "card-identity-selected", "reason": "game", "label": "VIP OTOMATIK RULET", "confirmed": true}
+{"time": "01:23:09", "event": "validation-table-clicked", "label": "VIP OTOMATIK RULET"}
+{"time": "01:23:10", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:23:10", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:23:10", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:23:11", "event": "game-opening-confirmed", "label": "VIP OTOMATIK RULET"}
+{"time": "01:23:11", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "VIP OTOMATIK RULET", "reason": "matched"}
+{"time": "01:23:11", "event": "bank-scan-committed", "count": 500, "label": "VIP OTOMATIK RULET", "confirmed": true}
+{"time": "01:23:11", "event": "validation-return-requested"}
+{"time": "01:23:11", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:23:12", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:23:12", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:23:13", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:23:13", "event": "table-roundtrip-complete", "label": "VIP OTOMATIK RULET", "count": 25, "confirmed": true}
+{"time": "01:23:14", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:23:14", "event": "card-identity-selected", "reason": "game", "label": "OTOMATIK MEGA RULET", "confirmed": true}
+{"time": "01:23:14", "event": "validation-table-clicked", "label": "OTOMATIK MEGA RULET"}
+{"time": "01:23:15", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:23:15", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:23:15", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:23:16", "event": "game-opening-confirmed", "label": "OTOMATIK MEGA RULET"}
+{"time": "01:23:16", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "OTOMATIK MEGA RULET", "reason": "matched"}
+{"time": "01:23:16", "event": "bank-scan-committed", "count": 500, "label": "OTOMATIK MEGA RULET", "confirmed": true}
+{"time": "01:23:16", "event": "panel-rejected", "reason": "stale-or-finished-visit"}
+{"time": "01:23:17", "event": "validation-return-requested"}
+{"time": "01:23:17", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:23:18", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:23:18", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:23:19", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:23:19", "event": "table-roundtrip-complete", "label": "OTOMATIK MEGA RULET", "count": 26, "confirmed": true}
+{"time": "01:23:20", "event": "navigation", "reason": "card-clicked", "count": 27, "world": "14"}
+{"time": "01:23:20", "event": "card-identity-selected", "reason": "game", "label": "KORECE RULET", "confirmed": true}
+{"time": "01:23:20", "event": "validation-table-clicked", "label": "KORECE RULET"}
+{"time": "01:23:21", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "game-controls-missing", "count": 0, "label": "", "reason": "game-controls-missing"}
+{"time": "01:23:21", "event": "panel-identity-check", "confirmed": false, "name_count": 0, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:23:21", "event": "panel-identity-check", "confirmed": false, "name_count": 32, "table_count": 0, "game_ui": false, "identity_stage": "outer-or-lobby-frame", "count": 0, "label": "", "reason": "outer-or-lobby-frame"}
+{"time": "01:23:22", "event": "game-opening-confirmed", "label": "KORECE RULET"}
+{"time": "01:23:22", "event": "panel-identity-check", "confirmed": true, "name_count": 1, "table_count": 1, "game_ui": true, "identity_stage": "game-frame", "count": 500, "label": "KORECE RULET", "reason": "matched"}
+{"time": "01:23:22", "event": "bank-scan-committed", "count": 500, "label": "KORECE RULET", "confirmed": true}
+{"time": "01:23:22", "event": "validation-return-requested"}
+{"time": "01:23:22", "event": "navigation", "reason": "active-game-has-son500", "count": 0, "world": "default"}
+{"time": "01:23:23", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:23:23", "event": "lobby-return-settling", "world": "14"}
+{"time": "01:23:24", "event": "navigation", "reason": "lobby-observed", "count": 27, "world": "14"}
+{"time": "01:23:24", "event": "table-roundtrip-complete", "label": "KORECE RULET", "count": 27, "confirmed": true}
+{"time": "01:23:24", "event": "full-table-pass-complete", "count": 27, "confirmed": true}
